@@ -1,5 +1,7 @@
 # SMS Spam Detector
 
+This is the Module 21 Challenge.
+
 ## Background
 
 This project involves refactoring a codebase for an SMS text classification solution into a function that constructs a linear Support Vector Classification (SVC) model. Once the model is created and trained, a Gradio app will be developed to allow users to test text messages, providing feedback on whether the text is classified as spam or not.
