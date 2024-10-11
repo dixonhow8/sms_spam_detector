@@ -1,6 +1,6 @@
 # SMS Spam Detector
 
-This is the Module 21 Challenge.
+This is the Module 21 Challeng for SMS Text Classification.
 
 ## Background
 
