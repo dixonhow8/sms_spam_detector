@@ -91,7 +91,6 @@ When a user submits a message, they should see an output similar to the followin
 
 Hoaward P. Dixon
 
-- [Gradio](https://gradio.app/) for providing an easy-to-use interface for machine learning models.
-- [Scikit-learn](https://scikit-learn.org/stable/) for the linear SVC implementation.
+
 
 
